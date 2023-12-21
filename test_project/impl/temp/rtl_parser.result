@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "/home/steven/.local/fpga/projects/test_project/src/led.v",
+  "InstLine" : 1,
+  "InstName" : "led",
+  "ModuleFile" : "/home/steven/.local/fpga/projects/test_project/src/led.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "led"
+ }
+]
